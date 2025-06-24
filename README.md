@@ -2,4 +2,4 @@
 - 🌱转行学习‘数据分析/运营’中
 - 🌱如我所愿
 
-[ 📇 DA Projects｜数据分析与可视化项目](https://github.com/qijuxing/Project)
+[ 📇 DA Projects｜数据分析与可视化项目]
